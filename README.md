@@ -8,7 +8,7 @@
 - Windows 11 Pro
 - Windows Server
 
-## Create Virtual Machine
+## Create Virtual Machines
 
 
 ## Download and Installation
