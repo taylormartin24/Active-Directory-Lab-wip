@@ -2,7 +2,7 @@
 
 # Active Directory
 
-## Technologies Used
+## Technologies and Tools Used
 - Microsoft Azure (Virtual Machine)
 - Remote Desktop
 - Windows 11 Pro
