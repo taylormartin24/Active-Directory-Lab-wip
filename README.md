@@ -8,6 +8,7 @@ In this lab, I installed and configured Active Directory on a Microsoft Azure Vi
 - Remote Desktop
 - Windows 11 Pro
 - Windows Server
+- Active Directory
 
 ## Create Virtual Machines
 
