@@ -13,9 +13,6 @@ In this lab, I installed and configured Active Directory on a Microsoft Azure Vi
 ## Create Virtual Machines
 
 
-## Download and Installation
-
-
 ## Configuration
 
 
