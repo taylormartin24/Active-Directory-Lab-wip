@@ -10,10 +10,10 @@ In this lab, I installed and configured Active Directory on a Microsoft Azure vi
 - Windows Server
 - Active Directory
 
-## Create Virtual Machines
+## Creating and Configuring Domain Controller Virtual Machine
 
 
-## Configuration
+## Creating and Configuring Client Virtual Machine
 
 
 ## Usage
